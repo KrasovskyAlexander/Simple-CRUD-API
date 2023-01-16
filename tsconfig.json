@@ -2,7 +2,7 @@
     "compilerOptions": {
         "target": "es6",
         "sourceMap": true,
-        "module": "es6",
+        "module": "es2020",
         "moduleResolution":"node",
         "esModuleInterop": true,
     },
